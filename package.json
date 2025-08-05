@@ -9,6 +9,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "dev": "nodemon dist/app.js",
+    "setup": "npm install && npm run build",
+    "run": "npm run build && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joy Prajwith",

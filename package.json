@@ -11,7 +11,7 @@
     "dev": "nodemon dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sekhar",
+  "author": "Joy Prajwith",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^2.7.0",
